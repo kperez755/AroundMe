@@ -1,4 +1,5 @@
-AroundMe is an iOS application built with Swift that leverages the **MapKit** framework to help users search for locations, view addresses, navigate via GPS, and filter nearby points of interest using a horizontal scroll view with keyword-based filters.  
+# AroundMe 🗺️  
+ AroundMe is an iOS application built with Swift that leverages the **MapKit** framework to help users search for locations, view addresses, navigate via GPS, and filter nearby points of interest using a horizontal scroll view with keyword-based filters.  
 
 ## Features ✨  
 
